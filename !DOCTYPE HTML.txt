@@ -1,0 +1,43 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ropa Deportiva Garcia</title>
+</head>
+<body background="fondo azul.jpg">
+<h1 style="font-size:60px">Ropa Deportiva Garcia</h1>
+<p style="font-size:22px">Bienvenido a deportiva garcia una tienda en donde puedes encontrar calzado, accesorios, equipamiento,etc. Para una mayor comodidad en tu entrenamiento</p>
+<div>
+<p style="font-size:20px">Ofrecemos</p>
+</div>
+<h1 style="font-size:20px">camisetas deportivas y pantalones deportivos</h1>
+<img src=https://th.bing.com/th/id/OIP.oXSIuqQAkwvMOMuKcTswHgHaIL?w=169&h=187&c=7&r=0&o=5&pid=1.7 width="300"height="300">
+<img src=https://th.bing.com/th/id/OIP.IM6ArjP2ukke26BWZUKIYAHaIs?w=164&h=192&c=7&r=0&o=5&pid=1.7 width="300"height="300">
+<img src=https://th.bing.com/th/id/OIP.iqn1Ada6RZe91nGyd6n2_QHaGK?w=245&h=204&c=7&r=0&o=5&pid=1.7 width="300"height="300">
+<p style="font-size:20px">tenemos tambien calzado y accesorios como:
+<h1 style="font-size:20px">zapatos de entrenamiento</h1>
+<img src=https://th.bing.com/th/id/OIP.3QY_s2LjrEmMctxlXIE2AAHaGE?w=221&h=181&c=7&r=0&o=5&pid=1.7 width="300"height="300">
+<img src=https://th.bing.com/th/id/OIP.FV08pnp2g7sVBUJB_SRLDgHaHa?w=195&h=195&c=7&r=0&o=5&pid=1.7 width="300"height="300">
+<h1 style="font-size:20px">botines de futbol</h1>
+<img src=https://th.bing.com/th/id/OIP.-CXHfnlNUj5I_4XMhoyTGgHaHa?w=184&h=183&c=7&r=0&o=5&pid=1.7 width="300"height="300">
+<img src=https://th.bing.com/th/id/OIP.1BLB5-7dBwtVBUBN7G88ZAHaHa?w=183&h=183&c=7&r=0&o=5&pid=1.7 width="300"height="300">
+<h1>calcetas deportivas</h1>
+<img src=https://th.bing.com/th/id/OIP.PEcsjeWhU28iXI8WAqHa_gHaGS?w=206&h=180&c=7&r=0&o=5&pid=1.7 width="300"height="300">
+<img src=https://th.bing.com/th/id/OIP.VRC9ZqryIZddhGgdiBaE5gHaGR?w=230&h=196&c=7&r=0&o=5&pid=1.7 width="300"height="300">
+<h1 style="font-size:20px">gorras y mochilas</h1>
+<img src=https://th.bing.com/th/id/OIP.W15s5oo3gCF2DHkMiMhNMgHaHa?w=193&h=192&c=7&r=0&o=5&pid=1.7 width="300"height="300">
+<img src=https://th.bing.com/th/id/OIP.siUHCNXnDvNquOP4XEU5ZAHaGT?w=228&h=192&c=7&r=0&o=5&pid=1.7 width="300"height="300">
+<img src=https://th.bing.com/th/id/OIP._JY0XvNy_ehX7Qtl_vunhAHaHa?w=192&h=192&c=7&r=0&o=5&pid=1.7 width="300"height="300">
+<h1 style="font-size:20px">guantes y termos</h1>
+<img src=https://th.bing.com/th/id/OIP.zznt1FEJ5a4wP8zSSHU3kQHaHU?w=193&h=190&c=7&r=0&o=5&pid=1.7 width="300"height="300">
+<img src=https://th.bing.com/th/id/OIP.u-xan5-xTeaSK_yl-O2ytwHaFj?w=269&h=201&c=7&r=0&o=5&pid=1.7 width="300"height="300">
+<img src=https://th.bing.com/th/id/OIP.uHmkSS7FQCPQdq21DhWd0AHaHa?w=193&h=193&c=7&r=0&o=5&pid=1.7 width="300"height="300">
+<div>
+<p style="font-size: 20px">Manejamos todo con buena calidad de tela para dar una mejor comodidad a tu cuerpo y a tu salud</p>
+<div>
+<p style="font-size:20px ;">Visitanos en nuestra sucursal avenida costera, s/n, boca del rio, veracruz, 94290.
+</p>
+<img src=https://th.bing.com/th/id/OIP.deBJz9QVaQAvHaV8bz3X0AHaHa?w=155&h=180&c=7&r=0&o=5&pid=1.7  width="30"height="30">
+</html>
+</body>
